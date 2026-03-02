@@ -28,5 +28,5 @@ void output() {
 int main() {
     input();
     output();
-    cout << "Hasil penjumlahan: " << jumlah(3, 2, 7) << endl;
+    cout << "Hasil penjumlahan: " << jumlah(5, 2, 7) << endl;
 }
