@@ -5,7 +5,7 @@ using namespace std;
 //variabel global
 int p, l;
 
-
+//imlementasi prosedur dan fungsi
 void input() {
     cout << "Masukkan panjang: ";
     cin >> p;
