@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-
+//deklerasi variabel global
 double jari_jari;
 const double phi = 3.14159;
 
