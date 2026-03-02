@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-
+//variabel global
 int p, l;
 
 
