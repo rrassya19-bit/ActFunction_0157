@@ -6,7 +6,7 @@ using namespace std;
 double jari_jari;
 const double phi = 3.14159;
 
-
+//implementasi prosedur dan fungsi
 void input() {
     cout << "Masukkan jari-jari lingkaran: ";
     cin >> jari_jari;
