@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-
+//deklerasi variabel global
 int panjang, lebar;
 
 
